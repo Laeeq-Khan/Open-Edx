@@ -91,7 +91,7 @@ class TestFooter(TestCase):
         twitter_url = 'https://twitter.com/edXOnline'
         reddit_url = 'http://www.reddit.com/r/edx'
         expected_footer = {
-            'copyright': '\xa9 \xe9dX.  All rights reserved except where noted. '
+            'copyright': '\xa9 \xe9dX.  Test changes by laeeq. '
                          ' edX, Open edX and their respective logos are '
                          'registered trademarks of edX Inc.',
             'navigation_links': [
